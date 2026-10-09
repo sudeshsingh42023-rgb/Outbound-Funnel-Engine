@@ -1,0 +1,1 @@
+A/B reply rate: A(pain-led)=19.5% (n=77) vs B(proof-led)=13.7% (n=73) | z=0.95, p=0.342 -> not significant at 5% (need more sends)

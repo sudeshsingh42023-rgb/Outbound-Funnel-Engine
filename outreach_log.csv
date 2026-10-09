@@ -1,0 +1,151 @@
+account_id,tier,persona,channel,variant,replied,meeting_booked
+ACC044,Tier 1,Founder/CXO,Email,B_proof_led,1,1
+ACC307,Tier 1,Founder/CXO,LinkedIn,B_proof_led,0,0
+ACC136,Tier 1,Campus Hiring Lead,LinkedIn,A_pain_led,0,0
+ACC063,Tier 1,HR Head,LinkedIn,B_proof_led,0,0
+ACC009,Tier 1,Founder/CXO,Email,B_proof_led,0,0
+ACC084,Tier 1,Founder/CXO,LinkedIn,B_proof_led,1,0
+ACC028,Tier 1,HR Head,LinkedIn,A_pain_led,0,0
+ACC106,Tier 1,Founder/CXO,Email,A_pain_led,0,0
+ACC074,Tier 1,HR Head,LinkedIn,A_pain_led,1,0
+ACC300,Tier 1,HR Head,LinkedIn,A_pain_led,1,0
+ACC125,Tier 1,HR Head,Email,B_proof_led,0,0
+ACC117,Tier 1,Founder/CXO,Email,A_pain_led,0,0
+ACC268,Tier 1,Campus Hiring Lead,LinkedIn,A_pain_led,0,0
+ACC209,Tier 1,HR Head,LinkedIn,A_pain_led,1,1
+ACC258,Tier 1,HR Head,Email,B_proof_led,0,0
+ACC131,Tier 1,Founder/CXO,LinkedIn,A_pain_led,0,0
+ACC186,Tier 1,Campus Hiring Lead,LinkedIn,A_pain_led,0,0
+ACC150,Tier 1,HR Head,LinkedIn,B_proof_led,1,0
+ACC306,Tier 1,Campus Hiring Lead,LinkedIn,B_proof_led,0,0
+ACC187,Tier 1,Campus Hiring Lead,LinkedIn,A_pain_led,0,0
+ACC054,Tier 1,Founder/CXO,LinkedIn,A_pain_led,1,1
+ACC255,Tier 1,Founder/CXO,LinkedIn,B_proof_led,1,0
+ACC018,Tier 1,Campus Hiring Lead,LinkedIn,B_proof_led,0,0
+ACC093,Tier 1,HR Head,LinkedIn,B_proof_led,0,0
+ACC177,Tier 1,Campus Hiring Lead,LinkedIn,B_proof_led,0,0
+ACC027,Tier 1,HR Head,LinkedIn,A_pain_led,1,1
+ACC264,Tier 1,Campus Hiring Lead,LinkedIn,A_pain_led,0,0
+ACC037,Tier 1,Founder/CXO,LinkedIn,B_proof_led,0,0
+ACC266,Tier 1,HR Head,LinkedIn,A_pain_led,0,0
+ACC012,Tier 1,Founder/CXO,LinkedIn,B_proof_led,0,0
+ACC069,Tier 1,Campus Hiring Lead,Email,A_pain_led,1,1
+ACC005,Tier 1,Founder/CXO,LinkedIn,A_pain_led,0,0
+ACC060,Tier 1,Campus Hiring Lead,Email,A_pain_led,0,0
+ACC035,Tier 1,HR Head,LinkedIn,B_proof_led,1,1
+ACC095,Tier 1,Campus Hiring Lead,LinkedIn,A_pain_led,0,0
+ACC096,Tier 1,Founder/CXO,LinkedIn,B_proof_led,0,0
+ACC021,Tier 1,Campus Hiring Lead,Email,A_pain_led,0,0
+ACC129,Tier 1,Campus Hiring Lead,LinkedIn,B_proof_led,0,0
+ACC014,Tier 1,Founder/CXO,LinkedIn,A_pain_led,0,0
+ACC212,Tier 1,Campus Hiring Lead,Email,A_pain_led,0,0
+ACC233,Tier 1,Campus Hiring Lead,Email,B_proof_led,0,0
+ACC217,Tier 1,Founder/CXO,LinkedIn,B_proof_led,0,0
+ACC210,Tier 1,HR Head,LinkedIn,B_proof_led,0,0
+ACC204,Tier 1,Founder/CXO,LinkedIn,A_pain_led,0,0
+ACC205,Tier 1,Campus Hiring Lead,Email,B_proof_led,0,0
+ACC085,Tier 1,Founder/CXO,LinkedIn,A_pain_led,0,0
+ACC161,Tier 1,HR Head,LinkedIn,A_pain_led,0,0
+ACC101,Tier 1,Campus Hiring Lead,Email,B_proof_led,0,0
+ACC118,Tier 1,Founder/CXO,Email,B_proof_led,0,0
+ACC281,Tier 1,Campus Hiring Lead,Email,A_pain_led,1,1
+ACC188,Tier 1,HR Head,LinkedIn,A_pain_led,1,0
+ACC104,Tier 1,HR Head,LinkedIn,A_pain_led,1,0
+ACC198,Tier 1,HR Head,Email,A_pain_led,0,0
+ACC269,Tier 1,Founder/CXO,Email,A_pain_led,0,0
+ACC169,Tier 1,Campus Hiring Lead,LinkedIn,A_pain_led,0,0
+ACC137,Tier 1,Founder/CXO,Email,A_pain_led,1,1
+ACC111,Tier 1,HR Head,Email,B_proof_led,0,0
+ACC227,Tier 1,HR Head,Email,A_pain_led,0,0
+ACC320,Tier 1,Campus Hiring Lead,Email,A_pain_led,1,0
+ACC099,Tier 1,Campus Hiring Lead,Email,A_pain_led,1,0
+ACC022,Tier 2,Founder/CXO,Email,A_pain_led,0,0
+ACC148,Tier 2,Campus Hiring Lead,Email,B_proof_led,0,0
+ACC138,Tier 2,HR Head,Email,A_pain_led,0,0
+ACC260,Tier 2,Campus Hiring Lead,Email,A_pain_led,0,0
+ACC200,Tier 2,Campus Hiring Lead,Email,A_pain_led,1,1
+ACC223,Tier 2,HR Head,Email,A_pain_led,0,0
+ACC048,Tier 2,HR Head,LinkedIn,B_proof_led,0,0
+ACC299,Tier 2,HR Head,LinkedIn,A_pain_led,0,0
+ACC026,Tier 2,Campus Hiring Lead,LinkedIn,B_proof_led,0,0
+ACC015,Tier 2,HR Head,Email,A_pain_led,0,0
+ACC149,Tier 2,HR Head,LinkedIn,B_proof_led,0,0
+ACC232,Tier 2,HR Head,LinkedIn,A_pain_led,0,0
+ACC250,Tier 2,HR Head,LinkedIn,A_pain_led,0,0
+ACC211,Tier 2,HR Head,Email,B_proof_led,1,0
+ACC072,Tier 2,Founder/CXO,Email,A_pain_led,0,0
+ACC147,Tier 2,HR Head,LinkedIn,B_proof_led,0,0
+ACC195,Tier 2,HR Head,LinkedIn,B_proof_led,0,0
+ACC237,Tier 2,Founder/CXO,LinkedIn,A_pain_led,0,0
+ACC029,Tier 2,Campus Hiring Lead,Email,A_pain_led,0,0
+ACC168,Tier 2,Founder/CXO,Email,B_proof_led,0,0
+ACC172,Tier 2,Campus Hiring Lead,LinkedIn,B_proof_led,0,0
+ACC130,Tier 2,Campus Hiring Lead,Email,A_pain_led,0,0
+ACC265,Tier 2,Campus Hiring Lead,LinkedIn,A_pain_led,0,0
+ACC254,Tier 2,Campus Hiring Lead,LinkedIn,A_pain_led,0,0
+ACC171,Tier 2,HR Head,Email,A_pain_led,0,0
+ACC308,Tier 2,HR Head,LinkedIn,B_proof_led,0,0
+ACC087,Tier 2,HR Head,Email,B_proof_led,0,0
+ACC107,Tier 2,Founder/CXO,LinkedIn,B_proof_led,1,0
+ACC068,Tier 2,HR Head,LinkedIn,A_pain_led,0,0
+ACC163,Tier 2,Campus Hiring Lead,LinkedIn,A_pain_led,0,0
+ACC259,Tier 2,Campus Hiring Lead,LinkedIn,B_proof_led,0,0
+ACC226,Tier 2,HR Head,LinkedIn,A_pain_led,0,0
+ACC151,Tier 2,Campus Hiring Lead,LinkedIn,A_pain_led,0,0
+ACC122,Tier 2,Founder/CXO,Email,B_proof_led,0,0
+ACC016,Tier 2,HR Head,LinkedIn,A_pain_led,1,0
+ACC124,Tier 2,HR Head,LinkedIn,A_pain_led,0,0
+ACC219,Tier 2,HR Head,Email,B_proof_led,0,0
+ACC090,Tier 2,Campus Hiring Lead,LinkedIn,A_pain_led,0,0
+ACC199,Tier 2,Campus Hiring Lead,LinkedIn,B_proof_led,0,0
+ACC050,Tier 2,Founder/CXO,LinkedIn,B_proof_led,1,1
+ACC010,Tier 2,Founder/CXO,LinkedIn,B_proof_led,0,0
+ACC025,Tier 2,HR Head,LinkedIn,B_proof_led,0,0
+ACC058,Tier 2,HR Head,LinkedIn,B_proof_led,0,0
+ACC277,Tier 2,HR Head,LinkedIn,B_proof_led,0,0
+ACC228,Tier 2,Campus Hiring Lead,Email,B_proof_led,0,0
+ACC182,Tier 2,Campus Hiring Lead,Email,B_proof_led,0,0
+ACC020,Tier 2,HR Head,LinkedIn,B_proof_led,0,0
+ACC088,Tier 2,HR Head,Email,B_proof_led,0,0
+ACC184,Tier 2,Founder/CXO,LinkedIn,B_proof_led,0,0
+ACC078,Tier 2,HR Head,Email,A_pain_led,0,0
+ACC003,Tier 2,HR Head,Email,A_pain_led,0,0
+ACC319,Tier 2,Campus Hiring Lead,Email,B_proof_led,0,0
+ACC289,Tier 2,Campus Hiring Lead,Email,A_pain_led,0,0
+ACC053,Tier 2,Campus Hiring Lead,LinkedIn,A_pain_led,0,0
+ACC270,Tier 2,HR Head,Email,B_proof_led,1,0
+ACC024,Tier 2,Campus Hiring Lead,LinkedIn,B_proof_led,0,0
+ACC176,Tier 2,Campus Hiring Lead,LinkedIn,B_proof_led,0,0
+ACC091,Tier 2,Campus Hiring Lead,Email,B_proof_led,1,0
+ACC057,Tier 2,Campus Hiring Lead,LinkedIn,A_pain_led,0,0
+ACC267,Tier 2,HR Head,LinkedIn,B_proof_led,0,0
+ACC279,Tier 3,Campus Hiring Lead,Email,B_proof_led,0,0
+ACC181,Tier 3,Campus Hiring Lead,Email,A_pain_led,0,0
+ACC064,Tier 3,Founder/CXO,Email,B_proof_led,0,0
+ACC315,Tier 3,Campus Hiring Lead,LinkedIn,B_proof_led,0,0
+ACC293,Tier 3,HR Head,LinkedIn,A_pain_led,0,0
+ACC224,Tier 3,Campus Hiring Lead,LinkedIn,B_proof_led,0,0
+ACC153,Tier 3,Founder/CXO,Email,B_proof_led,0,0
+ACC311,Tier 3,Campus Hiring Lead,LinkedIn,A_pain_led,0,0
+ACC033,Tier 3,Campus Hiring Lead,LinkedIn,B_proof_led,0,0
+ACC246,Tier 3,Campus Hiring Lead,LinkedIn,B_proof_led,0,0
+ACC030,Tier 3,HR Head,LinkedIn,A_pain_led,0,0
+ACC283,Tier 3,Founder/CXO,LinkedIn,A_pain_led,0,0
+ACC194,Tier 3,Campus Hiring Lead,Email,B_proof_led,0,0
+ACC213,Tier 3,HR Head,LinkedIn,A_pain_led,0,0
+ACC257,Tier 3,Campus Hiring Lead,LinkedIn,A_pain_led,0,0
+ACC286,Tier 3,HR Head,LinkedIn,A_pain_led,0,0
+ACC247,Tier 3,Founder/CXO,Email,B_proof_led,0,0
+ACC251,Tier 3,Campus Hiring Lead,LinkedIn,A_pain_led,0,0
+ACC081,Tier 3,HR Head,LinkedIn,B_proof_led,0,0
+ACC170,Tier 3,Campus Hiring Lead,LinkedIn,B_proof_led,0,0
+ACC006,Tier 3,Campus Hiring Lead,LinkedIn,B_proof_led,0,0
+ACC252,Tier 3,HR Head,Email,B_proof_led,0,0
+ACC039,Tier 3,HR Head,LinkedIn,A_pain_led,0,0
+ACC128,Tier 3,Campus Hiring Lead,LinkedIn,B_proof_led,0,0
+ACC092,Tier 3,HR Head,LinkedIn,A_pain_led,1,1
+ACC116,Tier 3,Campus Hiring Lead,Email,A_pain_led,0,0
+ACC314,Tier 3,HR Head,Email,A_pain_led,0,0
+ACC103,Tier 3,Founder/CXO,Email,A_pain_led,0,0
+ACC023,Tier 3,Campus Hiring Lead,LinkedIn,B_proof_led,0,0
+ACC203,Tier 3,Campus Hiring Lead,LinkedIn,B_proof_led,0,0

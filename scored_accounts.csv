@@ -1,0 +1,321 @@
+account_id,company,industry,city,employee_band,freshers_hired_last_year,open_fresher_roles,does_campus_hiring,has_dedicated_campus_recruiter,icp_score,tier
+ACC044,SampleCo-044,Startup/SaaS,Remote-first,201-1000,15,6,1,0,88.0,Tier 1
+ACC307,SampleCo-307,Startup/SaaS,Remote-first,201-1000,24,2,1,0,87.0,Tier 1
+ACC136,SampleCo-136,IT Services,Remote-first,201-1000,14,5,1,0,86.5,Tier 1
+ACC063,SampleCo-063,BFSI,Hyderabad,201-1000,23,3,1,0,86.5,Tier 1
+ACC009,SampleCo-009,IT Services,Remote-first,51-200,18,4,1,0,84.0,Tier 1
+ACC084,SampleCo-084,IT Services,Bengaluru,201-1000,16,3,1,0,83.5,Tier 1
+ACC028,SampleCo-028,IT Services,Kolkata,201-1000,21,1,1,0,83.5,Tier 1
+ACC106,SampleCo-106,E-commerce,Pune,201-1000,19,4,1,0,83.0,Tier 1
+ACC074,SampleCo-074,IT Services,Kolkata,1000+,21,3,1,0,82.5,Tier 1
+ACC300,SampleCo-300,EdTech,Gurugram,1000+,22,5,1,0,82.5,Tier 1
+ACC125,SampleCo-125,IT Services,Pune,1000+,13,6,1,0,82.0,Tier 1
+ACC117,SampleCo-117,E-commerce,Chennai,201-1000,29,1,1,0,81.5,Tier 1
+ACC268,SampleCo-268,IT Services,Hyderabad,51-200,20,2,1,0,81.0,Tier 1
+ACC209,SampleCo-209,IT Services,Kolkata,201-1000,10,4,1,0,80.0,Tier 1
+ACC258,SampleCo-258,IT Services,Bengaluru,51-200,16,3,1,0,79.5,Tier 1
+ACC131,SampleCo-131,IT Services,Chennai,51-200,18,2,1,0,79.0,Tier 1
+ACC186,SampleCo-186,EdTech,Bengaluru,201-1000,17,3,1,0,78.5,Tier 1
+ACC150,SampleCo-150,IT Services,Bengaluru,201-1000,11,3,1,0,78.5,Tier 1
+ACC306,SampleCo-306,BFSI,Bengaluru,51-200,11,6,1,0,78.0,Tier 1
+ACC187,SampleCo-187,Startup/SaaS,Chennai,201-1000,15,2,1,0,78.0,Tier 1
+ACC054,SampleCo-054,EdTech,Remote-first,201-1000,19,2,1,0,78.0,Tier 1
+ACC255,SampleCo-255,IT Services,Chennai,1-50,15,8,1,0,78.0,Tier 1
+ACC018,SampleCo-018,IT Services,Chennai,201-1000,10,3,1,0,77.5,Tier 1
+ACC093,SampleCo-093,Startup/SaaS,Remote-first,51-200,16,3,1,0,77.5,Tier 1
+ACC177,SampleCo-177,Startup/SaaS,Bengaluru,1000+,13,5,1,0,77.5,Tier 1
+ACC027,SampleCo-027,BFSI,Gurugram,51-200,13,5,1,0,77.5,Tier 1
+ACC264,SampleCo-264,IT Services,Remote-first,1-50,17,5,1,0,77.5,Tier 1
+ACC037,SampleCo-037,IT Services,Gurugram,51-200,14,3,1,0,77.5,Tier 1
+ACC266,SampleCo-266,IT Services,Chennai,51-200,9,5,1,0,77.5,Tier 1
+ACC012,SampleCo-012,Consulting,Chennai,201-1000,15,4,1,0,77.0,Tier 1
+ACC069,SampleCo-069,IT Services,Bhubaneswar,201-1000,17,0,1,0,77.0,Tier 1
+ACC005,SampleCo-005,IT Services,Kolkata,1-50,19,4,1,0,77.0,Tier 1
+ACC060,SampleCo-060,IT Services,Bengaluru,201-1000,14,1,1,0,76.5,Tier 1
+ACC035,SampleCo-035,BFSI,Gurugram,51-200,14,4,1,0,76.0,Tier 1
+ACC095,SampleCo-095,Startup/SaaS,Hyderabad,1000+,19,2,1,0,76.0,Tier 1
+ACC096,SampleCo-096,EdTech,Chennai,51-200,16,4,1,0,76.0,Tier 1
+ACC021,SampleCo-021,E-commerce,Hyderabad,201-1000,17,2,1,0,76.0,Tier 1
+ACC129,SampleCo-129,IT Services,Hyderabad,201-1000,6,4,1,0,76.0,Tier 1
+ACC014,SampleCo-014,Manufacturing,Kolkata,51-200,17,9,1,0,76.0,Tier 1
+ACC212,SampleCo-212,EdTech,Kolkata,1000+,15,5,1,0,75.5,Tier 1
+ACC233,SampleCo-233,Consulting,Bengaluru,201-1000,21,1,1,0,75.5,Tier 1
+ACC217,SampleCo-217,IT Services,Hyderabad,201-1000,21,4,0,0,75.0,Tier 1
+ACC210,SampleCo-210,BFSI,Gurugram,51-200,13,4,1,0,75.0,Tier 1
+ACC204,SampleCo-204,IT Services,Bengaluru,51-200,16,6,1,1,75.0,Tier 1
+ACC205,SampleCo-205,IT Services,Bengaluru,201-1000,16,6,0,0,75.0,Tier 1
+ACC085,SampleCo-085,IT Services,Kolkata,201-1000,22,2,1,1,75.0,Tier 1
+ACC161,SampleCo-161,IT Services,Bengaluru,201-1000,10,2,1,0,75.0,Tier 1
+ACC101,SampleCo-101,Consulting,Kolkata,51-200,22,2,1,0,75.0,Tier 1
+ACC118,SampleCo-118,E-commerce,Bhubaneswar,201-1000,16,2,1,0,75.0,Tier 1
+ACC281,SampleCo-281,IT Services,Kolkata,201-1000,12,1,1,0,74.5,Tier 1
+ACC188,SampleCo-188,IT Services,Remote-first,1000+,13,3,1,0,74.5,Tier 1
+ACC104,SampleCo-104,Consulting,Pune,51-200,19,3,1,0,74.5,Tier 1
+ACC198,SampleCo-198,Consulting,Hyderabad,51-200,14,5,1,0,74.5,Tier 1
+ACC269,SampleCo-269,IT Services,Pune,201-1000,9,2,1,0,74.0,Tier 1
+ACC169,SampleCo-169,Startup/SaaS,Bhubaneswar,201-1000,15,5,1,1,73.5,Tier 1
+ACC137,SampleCo-137,Consulting,Bhubaneswar,201-1000,14,3,1,0,73.5,Tier 1
+ACC111,SampleCo-111,BFSI,Remote-first,1000+,11,5,1,0,73.5,Tier 1
+ACC227,SampleCo-227,IT Services,Kolkata,201-1000,14,7,0,0,73.0,Tier 1
+ACC320,SampleCo-320,Consulting,Bhubaneswar,201-1000,11,4,1,0,73.0,Tier 1
+ACC099,SampleCo-099,IT Services,Chennai,1000+,20,7,0,0,73.0,Tier 1
+ACC218,SampleCo-218,IT Services,Bengaluru,51-200,9,3,1,0,72.5,Tier 1
+ACC086,SampleCo-086,IT Services,Bengaluru,201-1000,17,3,1,1,72.5,Tier 1
+ACC189,SampleCo-189,E-commerce,Kolkata,51-200,15,3,1,0,72.5,Tier 1
+ACC155,SampleCo-155,IT Services,Bhubaneswar,1-50,14,4,1,0,72.0,Tier 1
+ACC052,SampleCo-052,IT Services,Kolkata,201-1000,13,7,0,0,72.0,Tier 1
+ACC049,SampleCo-049,E-commerce,Bhubaneswar,201-1000,20,4,1,1,72.0,Tier 1
+ACC089,SampleCo-089,IT Services,Bhubaneswar,51-200,13,1,1,0,71.5,Tier 1
+ACC243,SampleCo-243,IT Services,Bhubaneswar,1-50,11,5,1,0,71.5,Tier 1
+ACC158,SampleCo-158,EdTech,Bhubaneswar,201-1000,10,3,1,0,71.5,Tier 1
+ACC297,SampleCo-297,Consulting,Hyderabad,201-1000,12,3,1,0,71.5,Tier 1
+ACC108,SampleCo-108,Startup/SaaS,Pune,51-200,15,1,1,0,71.5,Tier 1
+ACC142,SampleCo-142,BFSI,Chennai,51-200,9,4,1,0,71.0,Tier 1
+ACC071,SampleCo-071,IT Services,Chennai,51-200,12,6,1,1,71.0,Tier 1
+ACC040,SampleCo-040,EdTech,Remote-first,201-1000,12,2,1,0,71.0,Tier 1
+ACC275,SampleCo-275,E-commerce,Gurugram,201-1000,12,2,1,0,71.0,Tier 1
+ACC004,SampleCo-004,E-commerce,Bhubaneswar,51-200,16,2,1,0,71.0,Tier 1
+ACC225,SampleCo-225,Startup/SaaS,Kolkata,51-200,24,2,1,1,71.0,Tier 1
+ACC271,SampleCo-271,IT Services,Kolkata,51-200,19,3,1,1,70.5,Tier 1
+ACC318,SampleCo-318,E-commerce,Chennai,1-50,16,5,1,0,70.5,Tier 1
+ACC239,SampleCo-239,IT Services,Gurugram,201-1000,20,1,1,1,70.5,Tier 1
+ACC208,SampleCo-208,E-commerce,Bengaluru,1000+,10,5,1,0,70.5,Tier 1
+ACC082,SampleCo-082,Startup/SaaS,Remote-first,1-50,12,5,1,0,70.5,Tier 1
+ACC249,SampleCo-249,Startup/SaaS,Bengaluru,51-200,17,7,0,0,70.0,Tier 1
+ACC197,SampleCo-197,EdTech,Kolkata,1000+,19,6,1,1,70.0,Tier 1
+ACC164,SampleCo-164,IT Services,Remote-first,1-50,12,4,1,0,70.0,Tier 1
+ACC310,SampleCo-310,IT Services,Pune,201-1000,17,2,1,1,70.0,Tier 1
+ACC022,SampleCo-022,Startup/SaaS,Chennai,1000+,17,5,1,1,69.5,Tier 2
+ACC148,SampleCo-148,BFSI,Chennai,1-50,18,3,1,0,69.5,Tier 2
+ACC138,SampleCo-138,BFSI,Bengaluru,51-200,10,3,1,0,69.5,Tier 2
+ACC260,SampleCo-260,EdTech,Gurugram,51-200,19,5,1,1,69.5,Tier 2
+ACC200,SampleCo-200,Startup/SaaS,Remote-first,51-200,13,1,1,0,69.5,Tier 2
+ACC223,SampleCo-223,EdTech,Bengaluru,1-50,25,1,1,0,69.5,Tier 2
+ACC048,SampleCo-048,Startup/SaaS,Gurugram,1000+,22,3,1,1,69.5,Tier 2
+ACC299,SampleCo-299,E-commerce,Bhubaneswar,201-1000,10,2,1,0,69.0,Tier 2
+ACC026,SampleCo-026,IT Services,Chennai,201-1000,15,4,0,0,69.0,Tier 2
+ACC015,SampleCo-015,Startup/SaaS,Gurugram,201-1000,13,4,1,1,69.0,Tier 2
+ACC149,SampleCo-149,Startup/SaaS,Gurugram,51-200,15,0,1,0,69.0,Tier 2
+ACC232,SampleCo-232,Startup/SaaS,Hyderabad,201-1000,17,4,0,1,69.0,Tier 2
+ACC250,SampleCo-250,Startup/SaaS,Pune,51-200,21,4,0,0,69.0,Tier 2
+ACC211,SampleCo-211,E-commerce,Remote-first,51-200,26,4,0,0,69.0,Tier 2
+ACC072,SampleCo-072,Startup/SaaS,Gurugram,1-50,15,3,1,0,68.5,Tier 2
+ACC147,SampleCo-147,Startup/SaaS,Bengaluru,201-1000,15,3,1,1,68.5,Tier 2
+ACC195,SampleCo-195,IT Services,Kolkata,51-200,17,3,1,1,68.5,Tier 2
+ACC237,SampleCo-237,BFSI,Gurugram,51-200,9,3,1,0,68.5,Tier 2
+ACC029,SampleCo-029,IT Services,Remote-first,51-200,10,1,1,0,68.5,Tier 2
+ACC168,SampleCo-168,Manufacturing,Bengaluru,51-200,9,6,1,0,68.0,Tier 2
+ACC172,SampleCo-172,BFSI,Remote-first,1000+,13,2,1,0,68.0,Tier 2
+ACC130,SampleCo-130,EdTech,Bhubaneswar,51-200,13,2,1,0,68.0,Tier 2
+ACC265,SampleCo-265,Consulting,Bhubaneswar,51-200,10,4,1,0,68.0,Tier 2
+ACC254,SampleCo-254,IT Services,Remote-first,51-200,13,7,0,0,68.0,Tier 2
+ACC171,SampleCo-171,Startup/SaaS,Bengaluru,51-200,25,2,0,0,68.0,Tier 2
+ACC308,SampleCo-308,EdTech,Hyderabad,51-200,13,2,1,0,68.0,Tier 2
+ACC087,SampleCo-087,E-commerce,Chennai,201-1000,15,6,0,0,68.0,Tier 2
+ACC107,SampleCo-107,Startup/SaaS,Gurugram,1-50,14,3,1,0,67.5,Tier 2
+ACC068,SampleCo-068,Startup/SaaS,Gurugram,1-50,14,3,1,0,67.5,Tier 2
+ACC163,SampleCo-163,IT Services,Gurugram,1-50,12,3,1,0,67.5,Tier 2
+ACC259,SampleCo-259,IT Services,Bengaluru,51-200,13,4,1,1,67.0,Tier 2
+ACC226,SampleCo-226,Consulting,Chennai,51-200,9,4,1,0,67.0,Tier 2
+ACC151,SampleCo-151,Manufacturing,Bengaluru,1000+,15,4,1,0,67.0,Tier 2
+ACC122,SampleCo-122,EdTech,Gurugram,201-1000,8,2,1,0,67.0,Tier 2
+ACC016,SampleCo-016,IT Services,Gurugram,51-200,14,5,0,0,66.5,Tier 2
+ACC124,SampleCo-124,Startup/SaaS,Remote-first,201-1000,12,5,0,0,66.5,Tier 2
+ACC219,SampleCo-219,Consulting,Chennai,201-1000,18,5,0,1,66.5,Tier 2
+ACC090,SampleCo-090,BFSI,Chennai,51-200,12,1,1,0,66.5,Tier 2
+ACC199,SampleCo-199,IT Services,Bengaluru,1-50,13,2,1,0,66.0,Tier 2
+ACC050,SampleCo-050,IT Services,Kolkata,51-200,11,6,0,1,66.0,Tier 2
+ACC010,SampleCo-010,BFSI,Kolkata,51-200,15,9,0,0,66.0,Tier 2
+ACC025,SampleCo-025,E-commerce,Gurugram,51-200,13,6,1,1,66.0,Tier 2
+ACC058,SampleCo-058,BFSI,Gurugram,1-50,17,2,1,0,66.0,Tier 2
+ACC277,SampleCo-277,Startup/SaaS,Gurugram,51-200,7,2,1,0,66.0,Tier 2
+ACC228,SampleCo-228,BFSI,Kolkata,201-1000,16,4,0,0,66.0,Tier 2
+ACC182,SampleCo-182,Consulting,Chennai,1000+,12,3,1,0,65.5,Tier 2
+ACC020,SampleCo-020,EdTech,Pune,51-200,13,1,1,0,65.5,Tier 2
+ACC088,SampleCo-088,BFSI,Bengaluru,1-50,14,3,1,0,65.5,Tier 2
+ACC184,SampleCo-184,Startup/SaaS,Chennai,1-50,17,1,1,0,65.5,Tier 2
+ACC078,SampleCo-078,EdTech,Bhubaneswar,51-200,15,5,1,1,65.5,Tier 2
+ACC003,SampleCo-003,Manufacturing,Kolkata,51-200,9,5,1,0,65.5,Tier 2
+ACC319,SampleCo-319,Startup/SaaS,Remote-first,201-1000,13,4,0,0,65.0,Tier 2
+ACC289,SampleCo-289,BFSI,Bhubaneswar,1-50,18,8,1,1,65.0,Tier 2
+ACC053,SampleCo-053,E-commerce,Remote-first,51-200,16,7,0,0,65.0,Tier 2
+ACC270,SampleCo-270,IT Services,Bengaluru,201-1000,11,4,0,1,65.0,Tier 2
+ACC024,SampleCo-024,Consulting,Hyderabad,51-200,17,0,1,0,65.0,Tier 2
+ACC176,SampleCo-176,IT Services,Kolkata,51-200,12,5,0,1,64.5,Tier 2
+ACC091,SampleCo-091,IT Services,Chennai,51-200,13,3,1,1,64.5,Tier 2
+ACC057,SampleCo-057,BFSI,Chennai,51-200,21,3,0,0,64.5,Tier 2
+ACC267,SampleCo-267,Startup/SaaS,Bhubaneswar,51-200,15,3,1,1,64.5,Tier 2
+ACC132,SampleCo-132,Consulting,Remote-first,201-1000,18,4,0,0,64.0,Tier 2
+ACC316,SampleCo-316,Startup/SaaS,Gurugram,51-200,10,0,1,0,64.0,Tier 2
+ACC143,SampleCo-143,Consulting,Bengaluru,1000+,13,2,1,0,64.0,Tier 2
+ACC222,SampleCo-222,BFSI,Remote-first,51-200,13,6,0,1,64.0,Tier 2
+ACC263,SampleCo-263,Startup/SaaS,Hyderabad,1000+,18,4,0,0,64.0,Tier 2
+ACC008,SampleCo-008,E-commerce,Gurugram,1-50,12,4,1,0,64.0,Tier 2
+ACC156,SampleCo-156,E-commerce,Pune,1-50,21,5,1,1,63.5,Tier 2
+ACC007,SampleCo-007,E-commerce,Bhubaneswar,51-200,6,3,1,0,63.5,Tier 2
+ACC013,SampleCo-013,EdTech,Hyderabad,201-1000,13,5,0,0,63.5,Tier 2
+ACC011,SampleCo-011,Startup/SaaS,Bhubaneswar,201-1000,19,1,0,1,63.5,Tier 2
+ACC080,SampleCo-080,E-commerce,Gurugram,51-200,17,5,0,0,63.5,Tier 2
+ACC159,SampleCo-159,E-commerce,Pune,201-1000,10,7,0,0,63.0,Tier 2
+ACC114,SampleCo-114,EdTech,Remote-first,51-200,19,4,0,0,63.0,Tier 2
+ACC256,SampleCo-256,E-commerce,Gurugram,201-1000,16,2,1,1,63.0,Tier 2
+ACC298,SampleCo-298,Manufacturing,Hyderabad,1-50,12,6,1,0,63.0,Tier 2
+ACC282,SampleCo-282,IT Services,Gurugram,1-50,14,5,1,1,62.5,Tier 2
+ACC206,SampleCo-206,IT Services,Bengaluru,51-200,15,3,0,0,62.5,Tier 2
+ACC067,SampleCo-067,BFSI,Bengaluru,51-200,14,5,0,0,62.5,Tier 2
+ACC304,SampleCo-304,BFSI,Bhubaneswar,201-1000,20,1,0,0,62.5,Tier 2
+ACC036,SampleCo-036,IT Services,Chennai,1-50,23,3,0,1,62.5,Tier 2
+ACC241,SampleCo-241,Manufacturing,Bengaluru,51-200,18,0,1,0,62.0,Tier 2
+ACC240,SampleCo-240,IT Services,Chennai,1000+,15,2,1,1,62.0,Tier 2
+ACC175,SampleCo-175,IT Services,Kolkata,1000+,19,2,0,0,62.0,Tier 2
+ACC032,SampleCo-032,Consulting,Gurugram,201-1000,11,6,0,0,62.0,Tier 2
+ACC157,SampleCo-157,Startup/SaaS,Remote-first,201-1000,10,4,0,1,62.0,Tier 2
+ACC126,SampleCo-126,BFSI,Kolkata,201-1000,14,3,0,0,61.5,Tier 2
+ACC139,SampleCo-139,E-commerce,Pune,1-50,17,1,1,0,61.5,Tier 2
+ACC110,SampleCo-110,Consulting,Hyderabad,1-50,14,3,1,0,61.5,Tier 2
+ACC140,SampleCo-140,IT Services,Kolkata,1-50,8,2,1,0,61.0,Tier 2
+ACC294,SampleCo-294,IT Services,Chennai,201-1000,8,2,1,1,61.0,Tier 2
+ACC280,SampleCo-280,Manufacturing,Chennai,51-200,18,8,0,0,61.0,Tier 2
+ACC272,SampleCo-272,IT Services,Hyderabad,51-200,16,2,0,1,61.0,Tier 2
+ACC038,SampleCo-038,BFSI,Bengaluru,201-1000,11,4,0,0,61.0,Tier 2
+ACC242,SampleCo-242,Manufacturing,Kolkata,51-200,12,2,1,0,61.0,Tier 2
+ACC244,SampleCo-244,BFSI,Hyderabad,1000+,22,2,0,1,61.0,Tier 2
+ACC079,SampleCo-079,BFSI,Hyderabad,51-200,20,2,0,1,61.0,Tier 2
+ACC083,SampleCo-083,Manufacturing,Kolkata,201-1000,19,4,0,0,61.0,Tier 2
+ACC230,SampleCo-230,IT Services,Bengaluru,51-200,12,2,1,1,61.0,Tier 2
+ACC313,SampleCo-313,IT Services,Gurugram,51-200,18,1,0,0,60.5,Tier 2
+ACC047,SampleCo-047,Startup/SaaS,Bhubaneswar,1000+,17,3,0,0,60.5,Tier 2
+ACC185,SampleCo-185,E-commerce,Gurugram,51-200,10,5,1,1,60.5,Tier 2
+ACC288,SampleCo-288,Startup/SaaS,Pune,1-50,21,2,1,1,60.0,Tier 2
+ACC098,SampleCo-098,IT Services,Pune,51-200,11,2,1,1,60.0,Tier 2
+ACC001,SampleCo-001,E-commerce,Chennai,51-200,17,2,1,1,60.0,Tier 2
+ACC287,SampleCo-287,IT Services,Gurugram,1-50,11,5,1,1,59.5,Tier 2
+ACC183,SampleCo-183,BFSI,Hyderabad,1-50,8,3,1,0,59.5,Tier 2
+ACC077,SampleCo-077,Startup/SaaS,Gurugram,51-200,9,5,0,0,59.5,Tier 2
+ACC066,SampleCo-066,BFSI,Gurugram,51-200,12,3,1,1,59.5,Tier 2
+ACC046,SampleCo-046,Manufacturing,Kolkata,51-200,13,1,1,0,59.5,Tier 2
+ACC303,SampleCo-303,BFSI,Remote-first,51-200,18,2,0,1,59.0,Tier 2
+ACC221,SampleCo-221,Startup/SaaS,Remote-first,1-50,15,4,1,1,59.0,Tier 2
+ACC070,SampleCo-070,Startup/SaaS,Bhubaneswar,51-200,12,2,1,1,59.0,Tier 2
+ACC051,SampleCo-051,IT Services,Remote-first,201-1000,10,2,0,0,59.0,Tier 2
+ACC141,SampleCo-141,BFSI,Remote-first,201-1000,10,2,1,1,59.0,Tier 2
+ACC073,SampleCo-073,Manufacturing,Chennai,1-50,18,2,1,0,59.0,Tier 2
+ACC229,SampleCo-229,EdTech,Bhubaneswar,51-200,13,3,1,1,58.5,Tier 2
+ACC041,SampleCo-041,Startup/SaaS,Chennai,1000+,15,3,0,0,58.5,Tier 2
+ACC235,SampleCo-235,Consulting,Chennai,201-1000,10,5,0,0,58.5,Tier 2
+ACC062,SampleCo-062,BFSI,Gurugram,51-200,22,0,0,0,58.0,Tier 2
+ACC248,SampleCo-248,Startup/SaaS,Hyderabad,1-50,13,6,0,0,58.0,Tier 2
+ACC113,SampleCo-113,Startup/SaaS,Bengaluru,51-200,15,2,0,0,58.0,Tier 2
+ACC065,SampleCo-065,EdTech,Hyderabad,1-50,11,2,1,0,58.0,Tier 2
+ACC292,SampleCo-292,IT Services,Chennai,51-200,13,2,0,0,58.0,Tier 2
+ACC309,SampleCo-309,Startup/SaaS,Remote-first,201-1000,11,2,0,1,58.0,Tier 2
+ACC134,SampleCo-134,Startup/SaaS,Chennai,1000+,13,2,1,1,58.0,Tier 2
+ACC144,SampleCo-144,EdTech,Bengaluru,51-200,19,2,0,0,58.0,Tier 2
+ACC133,SampleCo-133,EdTech,Bengaluru,1000+,18,3,0,1,57.5,Tier 2
+ACC123,SampleCo-123,IT Services,Remote-first,1000+,13,1,1,1,57.5,Tier 2
+ACC231,SampleCo-231,IT Services,Bhubaneswar,1000+,8,3,1,1,57.5,Tier 2
+ACC173,SampleCo-173,Startup/SaaS,Chennai,201-1000,9,1,1,1,57.5,Tier 2
+ACC102,SampleCo-102,E-commerce,Kolkata,51-200,11,5,0,1,57.5,Tier 2
+ACC162,SampleCo-162,Consulting,Pune,201-1000,19,1,0,1,57.5,Tier 2
+ACC192,SampleCo-192,IT Services,Hyderabad,51-200,12,2,0,1,57.0,Tier 2
+ACC042,SampleCo-042,Manufacturing,Hyderabad,51-200,10,6,1,1,57.0,Tier 2
+ACC154,SampleCo-154,BFSI,Kolkata,51-200,16,2,0,1,57.0,Tier 2
+ACC207,SampleCo-207,IT Services,Hyderabad,51-200,13,0,1,1,57.0,Tier 2
+ACC055,SampleCo-055,E-commerce,Bengaluru,1-50,14,5,1,1,56.5,Tier 2
+ACC179,SampleCo-179,Consulting,Chennai,51-200,13,3,1,1,56.5,Tier 2
+ACC109,SampleCo-109,IT Services,Pune,1-50,17,3,0,0,56.5,Tier 2
+ACC146,SampleCo-146,Startup/SaaS,Gurugram,51-200,11,3,0,0,56.5,Tier 2
+ACC145,SampleCo-145,BFSI,Bhubaneswar,1000+,11,3,1,1,56.5,Tier 2
+ACC119,SampleCo-119,Startup/SaaS,Hyderabad,1000+,18,1,0,0,56.5,Tier 2
+ACC216,SampleCo-216,E-commerce,Kolkata,51-200,20,1,0,0,56.5,Tier 2
+ACC160,SampleCo-160,E-commerce,Bhubaneswar,1000+,10,4,1,1,56.0,Tier 2
+ACC112,SampleCo-112,IT Services,Hyderabad,51-200,11,2,0,1,56.0,Tier 2
+ACC302,SampleCo-302,IT Services,Bhubaneswar,1000+,10,3,0,0,55.5,Tier 2
+ACC180,SampleCo-180,E-commerce,Remote-first,51-200,14,3,0,1,55.5,Tier 2
+ACC215,SampleCo-215,E-commerce,Pune,1000+,16,3,0,0,55.5,Tier 2
+ACC245,SampleCo-245,EdTech,Kolkata,1-50,17,5,0,0,55.5,Tier 2
+ACC056,SampleCo-056,E-commerce,Pune,1-50,11,1,1,0,55.5,Tier 2
+ACC165,SampleCo-165,BFSI,Chennai,201-1000,15,0,0,0,55.0,Tier 2
+ACC295,SampleCo-295,Manufacturing,Bhubaneswar,1-50,19,0,1,0,55.0,Tier 2
+ACC105,SampleCo-105,E-commerce,Kolkata,1000+,13,4,0,1,55.0,Tier 2
+ACC100,SampleCo-100,Consulting,Remote-first,51-200,14,2,1,1,55.0,Tier 2
+ACC196,SampleCo-196,IT Services,Kolkata,51-200,10,2,0,0,55.0,Tier 2
+ACC193,SampleCo-193,IT Services,Bhubaneswar,1000+,12,2,0,0,55.0,Tier 2
+ACC296,SampleCo-296,Consulting,Remote-first,1000+,13,3,1,1,54.5,Tier 2
+ACC075,SampleCo-075,IT Services,Remote-first,1-50,16,1,1,1,54.5,Tier 2
+ACC220,SampleCo-220,Startup/SaaS,Kolkata,51-200,14,1,0,0,54.5,Tier 2
+ACC202,SampleCo-202,Consulting,Chennai,1-50,19,3,1,1,54.5,Tier 2
+ACC290,SampleCo-290,IT Services,Gurugram,201-1000,8,1,0,1,54.5,Tier 2
+ACC097,SampleCo-097,Startup/SaaS,Chennai,1000+,11,3,0,1,54.5,Tier 2
+ACC152,SampleCo-152,Consulting,Bhubaneswar,201-1000,11,3,0,1,54.5,Tier 2
+ACC017,SampleCo-017,BFSI,Kolkata,51-200,13,2,0,1,54.0,Tier 2
+ACC284,SampleCo-284,IT Services,Hyderabad,1-50,12,4,0,0,54.0,Tier 2
+ACC120,SampleCo-120,EdTech,Chennai,201-1000,13,1,0,1,53.5,Tier 2
+ACC214,SampleCo-214,Manufacturing,Hyderabad,51-200,23,1,0,0,53.5,Tier 2
+ACC278,SampleCo-278,BFSI,Kolkata,1000+,17,1,0,0,53.5,Tier 2
+ACC317,SampleCo-317,Startup/SaaS,Bhubaneswar,1-50,14,2,1,1,53.0,Tier 2
+ACC121,SampleCo-121,EdTech,Hyderabad,51-200,14,2,0,1,53.0,Tier 2
+ACC312,SampleCo-312,Startup/SaaS,Pune,51-200,10,2,0,0,53.0,Tier 2
+ACC190,SampleCo-190,Startup/SaaS,Bengaluru,51-200,15,0,0,0,53.0,Tier 2
+ACC135,SampleCo-135,EdTech,Kolkata,51-200,11,3,0,0,52.5,Tier 2
+ACC291,SampleCo-291,Manufacturing,Gurugram,1-50,14,1,1,0,52.5,Tier 2
+ACC305,SampleCo-305,Manufacturing,Hyderabad,1000+,16,4,0,0,52.0,Tier 2
+ACC301,SampleCo-301,E-commerce,Chennai,51-200,18,0,0,0,52.0,Tier 2
+ACC094,SampleCo-094,Startup/SaaS,Kolkata,201-1000,10,0,0,0,52.0,Tier 2
+ACC274,SampleCo-274,EdTech,Remote-first,51-200,9,2,1,1,52.0,Tier 2
+ACC273,SampleCo-273,IT Services,Bhubaneswar,1-50,12,3,0,0,51.5,Tier 2
+ACC261,SampleCo-261,IT Services,Bengaluru,1-50,12,3,0,1,51.5,Tier 2
+ACC002,SampleCo-002,Startup/SaaS,Remote-first,1-50,19,1,0,0,51.5,Tier 2
+ACC127,SampleCo-127,Startup/SaaS,Gurugram,1000+,8,3,0,0,51.5,Tier 2
+ACC276,SampleCo-276,Startup/SaaS,Bhubaneswar,1-50,14,3,0,0,51.5,Tier 2
+ACC178,SampleCo-178,Consulting,Bengaluru,51-200,13,1,1,1,51.5,Tier 2
+ACC253,SampleCo-253,BFSI,Gurugram,1-50,14,2,1,1,51.0,Tier 2
+ACC059,SampleCo-059,IT Services,Bengaluru,1-50,14,2,0,0,51.0,Tier 2
+ACC238,SampleCo-238,E-commerce,Chennai,1-50,10,7,0,0,51.0,Tier 2
+ACC115,SampleCo-115,IT Services,Gurugram,1-50,9,4,0,0,51.0,Tier 2
+ACC166,SampleCo-166,Startup/SaaS,Kolkata,1000+,8,1,1,1,50.5,Tier 2
+ACC034,SampleCo-034,Startup/SaaS,Bengaluru,51-200,10,1,0,0,50.5,Tier 2
+ACC043,SampleCo-043,E-commerce,Remote-first,1-50,10,4,1,1,50.0,Tier 2
+ACC279,SampleCo-279,Consulting,Pune,1-50,18,3,0,1,49.5,Tier 3
+ACC181,SampleCo-181,Consulting,Bengaluru,51-200,15,1,0,0,49.5,Tier 3
+ACC064,SampleCo-064,E-commerce,Hyderabad,1000+,15,1,0,0,49.5,Tier 3
+ACC315,SampleCo-315,Startup/SaaS,Kolkata,1-50,12,3,0,1,49.5,Tier 3
+ACC293,SampleCo-293,Consulting,Pune,51-200,15,1,0,0,49.5,Tier 3
+ACC224,SampleCo-224,Consulting,Kolkata,1000+,10,2,1,1,49.0,Tier 3
+ACC153,SampleCo-153,IT Services,Chennai,1-50,12,2,0,0,49.0,Tier 3
+ACC311,SampleCo-311,BFSI,Bengaluru,1-50,18,1,0,0,48.5,Tier 3
+ACC033,SampleCo-033,Startup/SaaS,Chennai,1-50,11,3,0,0,48.5,Tier 3
+ACC246,SampleCo-246,Manufacturing,Chennai,1-50,10,1,1,0,48.5,Tier 3
+ACC030,SampleCo-030,E-commerce,Hyderabad,1-50,13,2,1,1,48.0,Tier 3
+ACC283,SampleCo-283,IT Services,Bhubaneswar,1-50,11,2,0,1,48.0,Tier 3
+ACC194,SampleCo-194,Manufacturing,Hyderabad,201-1000,11,2,0,1,48.0,Tier 3
+ACC213,SampleCo-213,IT Services,Remote-first,1-50,13,1,0,0,47.5,Tier 3
+ACC257,SampleCo-257,Manufacturing,Gurugram,1-50,20,3,0,1,47.5,Tier 3
+ACC286,SampleCo-286,Startup/SaaS,Remote-first,1-50,12,2,0,1,47.0,Tier 3
+ACC247,SampleCo-247,EdTech,Bengaluru,1-50,16,2,0,0,47.0,Tier 3
+ACC251,SampleCo-251,EdTech,Bengaluru,51-200,8,2,0,1,47.0,Tier 3
+ACC081,SampleCo-081,EdTech,Hyderabad,1-50,16,2,0,0,47.0,Tier 3
+ACC170,SampleCo-170,Consulting,Remote-first,1-50,14,2,1,1,47.0,Tier 3
+ACC006,SampleCo-006,Consulting,Pune,51-200,15,0,0,0,47.0,Tier 3
+ACC252,SampleCo-252,Manufacturing,Chennai,1-50,14,5,0,1,46.5,Tier 3
+ACC039,SampleCo-039,IT Services,Gurugram,1-50,7,3,0,0,46.5,Tier 3
+ACC128,SampleCo-128,IT Services,Bhubaneswar,1-50,14,0,0,0,46.0,Tier 3
+ACC092,SampleCo-092,E-commerce,Bhubaneswar,201-1000,8,0,0,0,46.0,Tier 3
+ACC116,SampleCo-116,Manufacturing,Bhubaneswar,51-200,9,2,1,1,46.0,Tier 3
+ACC314,SampleCo-314,Startup/SaaS,Bhubaneswar,1-50,13,1,0,0,45.5,Tier 3
+ACC103,SampleCo-103,Startup/SaaS,Chennai,1-50,13,1,0,0,45.5,Tier 3
+ACC023,SampleCo-023,Consulting,Bengaluru,1000+,8,3,0,1,45.5,Tier 3
+ACC203,SampleCo-203,BFSI,Remote-first,1-50,14,1,0,1,44.5,Tier 3
+ACC031,SampleCo-031,E-commerce,Remote-first,1-50,10,3,0,0,43.5,Tier 3
+ACC285,SampleCo-285,EdTech,Hyderabad,1000+,9,1,0,1,43.5,Tier 3
+ACC061,SampleCo-061,EdTech,Gurugram,1000+,9,1,0,0,43.5,Tier 3
+ACC076,SampleCo-076,Startup/SaaS,Kolkata,1-50,7,2,0,0,42.0,Tier 3
+ACC201,SampleCo-201,E-commerce,Pune,1-50,11,2,0,0,42.0,Tier 3
+ACC234,SampleCo-234,EdTech,Bengaluru,1000+,4,2,0,1,41.0,Tier 3
+ACC019,SampleCo-019,Manufacturing,Bengaluru,51-200,10,1,0,0,40.5,Tier 3
+ACC262,SampleCo-262,Manufacturing,Bengaluru,1-50,12,3,0,1,39.5,Tier 3
+ACC191,SampleCo-191,Consulting,Hyderabad,1-50,14,0,0,0,38.0,Tier 3
+ACC174,SampleCo-174,Consulting,Pune,1-50,10,1,0,0,36.5,Tier 3
+ACC045,SampleCo-045,Manufacturing,Hyderabad,1-50,12,1,0,1,34.5,Tier 3
+ACC167,SampleCo-167,Manufacturing,Gurugram,1-50,9,0,1,1,33.0,Tier 3
+ACC236,SampleCo-236,Manufacturing,Gurugram,1-50,11,0,0,1,31.0,Tier 3
